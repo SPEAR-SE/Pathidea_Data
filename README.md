@@ -31,6 +31,6 @@ Pathidea_Data
 ├── vsm						VSMScore after normalization
 ├── code_changes				Detailed Java file changes for each bug report 
 ├── vsm_segmentation				Per-file score at different segmentation size
-├── log				List of logged classes extracted from bug reports
-└── path				List of classes that are found on the execution paths
+├── log						List of logged classes extracted from bug reports
+└── path					List of classes that are found on the execution paths
 ```
